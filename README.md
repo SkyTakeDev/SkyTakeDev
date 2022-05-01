@@ -1,6 +1,6 @@
 Hey!
 
 - 👋 Hallo, ich bin @SkyTakeDev
-- 👀 Ich bin Interessiert an Künstlicher Intelligenz sowie an Python-Applikationen!
+- 👀 Ich interessiere mich für künstliche Intelligenz und Python!
 - 🌱 Ich lerne gerade C++
 - 📫 Ihr könnt mich unter skytakemedia.de@gmail.com erreichen!
